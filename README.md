@@ -1,8 +1,4 @@
-# 0.1
-```
-echo "Hello, world"
-echo date
-date
+# 0.74
 id
 pwd
 exit
